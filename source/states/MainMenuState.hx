@@ -3,6 +3,7 @@ package states;
 import flixel.FlxObject;
 import flixel.effects.FlxFlicker;
 import flixel.ui.FlxButton;
+import flixel.graphics.frames.FlxAtlasFrames;
 import lime.app.Application;
 
 import states.editors.MasterEditorMenu;
